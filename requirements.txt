@@ -1,0 +1,7 @@
+opencv_python==4.5.1.48
+ImageHash==4.2.0
+fitz==0.0.1.dev2
+pyzbar==0.1.8
+numpy==1.19.5
+Pillow==8.1.0
+PyPDF2==1.26.0
